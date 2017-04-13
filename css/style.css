@@ -1,0 +1,31 @@
+hr {
+    margin-bottom: 15px;
+    border-top: 5px solid #7d97ad;
+    }
+body {
+	font-family: 'Lato', sans-serif;
+
+    }
+ .logo {
+ 	margin-top: 20px;
+ }
+.text-thin {
+	font-weight: 100;
+}
+.text-thick
+{
+	font-weight: 300;
+}
+.title-super {
+	font-size: 60px;
+}
+.projects-title  {
+	color: #7d97ad;
+	font-size: 40px ;
+}
+.project-name {
+	color: #7d97ad;
+    /*font-size: 40px ;*/
+	font-weight: 300;
+    font-size: 20px;
+}
